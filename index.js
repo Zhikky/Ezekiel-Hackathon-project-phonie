@@ -33,6 +33,9 @@
       else if(digits.slice(0,4) == "0901") {
         logo.src = Airtel
       }
+         else if(digits.slice(0,4) == "0907") {
+        logo.src = Airtel
+      }
 
     //   For Etisalat Sims
        else if(digits.slice(0,4) == "0809") {
